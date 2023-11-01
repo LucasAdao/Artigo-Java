@@ -1,0 +1,34 @@
+#CHECKLIST PARA GERAR ARTIGOS DE QUALIDADE
+-[ ] Definir o Assunto
+-[ ] Titulo chamativo: headline
+-[ ] Imagem de capa chamativa 
+-[ ] Blocos do artigo
+-[ ] Postar o artigo com um call to action
+
+## Assunto:
+Herança e Polimorfismo em Java
+
+## Headline:
+Desvendando a Magia da Herança e Polimorfismo em Java
+
+## Blocos:
+-O que é Herança java?
+-Como usar Herança no java:
+-O que é Polimorfismo java?
+-Como usar Polimorfismo no java:
+-Dica bônus para aprender java
+-Coloque 3 hashtags que tenham sentido
+
+Comporte-se como um criador de artigos especialista e siga as regras abaixo:
+{REGRAS}
+>No máximo 5 linhas por bloco de explicação
+>Me explique de forma informal, como se o receptor da mensagem tivesse 14 anos
+>Os blocos que serão criados estão abaixo:
+-O que é Herança java?
+-Como usar Herança no java:
+-O que é Polimorfismo java?
+-Como usar Polimorfismo no java:
+-Dica bônus para aprender java
+-Coloque 3 hashtags que tenham sentido
+
+
